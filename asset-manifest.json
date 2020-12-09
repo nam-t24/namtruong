@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/namtruong/static/css/main.fca07822.chunk.css",
+    "main.css": "/namtruong/static/css/main.b0784472.chunk.css",
     "main.js": "/namtruong/static/js/main.1bfe2d2d.chunk.js",
     "main.js.map": "/namtruong/static/js/main.1bfe2d2d.chunk.js.map",
     "runtime-main.js": "/namtruong/static/js/runtime-main.c2c23808.js",
@@ -8,14 +8,14 @@
     "static/js/2.313f7919.chunk.js": "/namtruong/static/js/2.313f7919.chunk.js",
     "static/js/2.313f7919.chunk.js.map": "/namtruong/static/js/2.313f7919.chunk.js.map",
     "index.html": "/namtruong/index.html",
-    "static/css/main.fca07822.chunk.css.map": "/namtruong/static/css/main.fca07822.chunk.css.map",
+    "static/css/main.b0784472.chunk.css.map": "/namtruong/static/css/main.b0784472.chunk.css.map",
     "static/js/2.313f7919.chunk.js.LICENSE.txt": "/namtruong/static/js/2.313f7919.chunk.js.LICENSE.txt",
-    "static/media/HeroSection.css": "/namtruong/static/media/img-home.c034239e.jpg"
+    "static/media/HeroSection.css": "/namtruong/static/media/galaxy.29c9f9e6.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c2c23808.js",
     "static/js/2.313f7919.chunk.js",
-    "static/css/main.fca07822.chunk.css",
+    "static/css/main.b0784472.chunk.css",
     "static/js/main.1bfe2d2d.chunk.js"
   ]
 }
