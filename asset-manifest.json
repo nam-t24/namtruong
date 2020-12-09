@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/namtruong/static/css/main.c8aa2d49.chunk.css",
-    "main.js": "/namtruong/static/js/main.ed408f8c.chunk.js",
-    "main.js.map": "/namtruong/static/js/main.ed408f8c.chunk.js.map",
+    "main.css": "/namtruong/static/css/main.93a3d08c.chunk.css",
+    "main.js": "/namtruong/static/js/main.15ec0fd5.chunk.js",
+    "main.js.map": "/namtruong/static/js/main.15ec0fd5.chunk.js.map",
     "runtime-main.js": "/namtruong/static/js/runtime-main.c2c23808.js",
     "runtime-main.js.map": "/namtruong/static/js/runtime-main.c2c23808.js.map",
     "static/js/2.313f7919.chunk.js": "/namtruong/static/js/2.313f7919.chunk.js",
     "static/js/2.313f7919.chunk.js.map": "/namtruong/static/js/2.313f7919.chunk.js.map",
     "index.html": "/namtruong/index.html",
-    "static/css/main.c8aa2d49.chunk.css.map": "/namtruong/static/css/main.c8aa2d49.chunk.css.map",
-    "static/js/2.313f7919.chunk.js.LICENSE.txt": "/namtruong/static/js/2.313f7919.chunk.js.LICENSE.txt"
+    "static/css/main.93a3d08c.chunk.css.map": "/namtruong/static/css/main.93a3d08c.chunk.css.map",
+    "static/js/2.313f7919.chunk.js.LICENSE.txt": "/namtruong/static/js/2.313f7919.chunk.js.LICENSE.txt",
+    "static/media/HeroSection.css": "/namtruong/static/media/img-home.c034239e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c2c23808.js",
     "static/js/2.313f7919.chunk.js",
-    "static/css/main.c8aa2d49.chunk.css",
-    "static/js/main.ed408f8c.chunk.js"
+    "static/css/main.93a3d08c.chunk.css",
+    "static/js/main.15ec0fd5.chunk.js"
   ]
 }
