@@ -6,11 +6,11 @@ import { Link } from 'react-router-dom';
 function Footer() {
   return (
     <div className='footer-container'>
-      <section className='footer-subscription'>
-        <p className='footer-subscription-heading'>
+      <section className='footer-contact'>
+        <p className='footer-contact-heading'>
           Contact
         </p>
-        <p className='footer-subscription-text'>
+        <p className='footer-contact-text'>
           namtruong831@gmail.com
         </p>
       </section>

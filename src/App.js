@@ -11,6 +11,7 @@ function App() {
         <Navbar />
         <Switch>
           <Route path="/" exact component={Home}/>
+          <Route path="/namtruong" exact component={Home}/>
         </Switch>
       </Router>
     </>
