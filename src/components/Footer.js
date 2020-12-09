@@ -18,9 +18,8 @@ function Footer() {
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
             <h2>Social Media</h2>
-            <a href={'www.github.com/nam-t24'}>Github</a>
-            <Link to='/'>Github</Link>
-            <Link to='/'>LinkedIn</Link>
+            <a href="http://github.com/nam-t24" target="-blank">Github</a>
+            <a href="https://www.linkedin.com/in/namtruongcs/" target="-blank">LinkedIn</a>
           </div>
         </div>
       </div>
@@ -29,45 +28,26 @@ function Footer() {
           <small class='website-rights'>Nam Truong</small>
           <div class='social-icons'>
             <Link
-              class='social-icon-link facebook'
+              class='social-icon-link github'
               to='/'
               target='_blank'
-              aria-label='Facebook'
+              aria-label='Github'
             >
-              <i class='fab fa-facebook-f' />
+              <i class='fab fa-github' />
             </Link>
             <Link
-              class='social-icon-link instagram'
-              to='/'
-              target='_blank'
-              aria-label='Instagram'
-            >
-              <i class='fab fa-instagram' />
-            </Link>
-            <Link
-              class='social-icon-link youtube'
-              to='/'
-              target='_blank'
-              aria-label='Youtube'
-            >
-              <i class='fab fa-youtube' />
-            </Link>
-            <Link
-              class='social-icon-link twitter'
-              to='/'
-              target='_blank'
-              aria-label='Twitter'
-            >
-              <i class='fab fa-twitter' />
-            </Link>
-            <Link
-              class='social-icon-link twitter'
+              class='social-icon-link linkedin'
               to='/'
               target='_blank'
               aria-label='LinkedIn'
             >
               <i class='fab fa-linkedin' />
             </Link>
+            
+              <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                <i class="fa fa-linkedin-square" aria-hidden="true"/>
+              </a>
+            
           </div>
         </div>
       </section>
