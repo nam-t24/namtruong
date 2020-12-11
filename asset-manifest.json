@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/namtruong/static/css/main.ede318b8.chunk.css",
+    "main.css": "/namtruong/static/css/main.997d2970.chunk.css",
     "main.js": "/namtruong/static/js/main.8661299a.chunk.js",
     "main.js.map": "/namtruong/static/js/main.8661299a.chunk.js.map",
     "runtime-main.js": "/namtruong/static/js/runtime-main.c2c23808.js",
@@ -8,7 +8,7 @@
     "static/js/2.176fcce2.chunk.js": "/namtruong/static/js/2.176fcce2.chunk.js",
     "static/js/2.176fcce2.chunk.js.map": "/namtruong/static/js/2.176fcce2.chunk.js.map",
     "index.html": "/namtruong/index.html",
-    "static/css/main.ede318b8.chunk.css.map": "/namtruong/static/css/main.ede318b8.chunk.css.map",
+    "static/css/main.997d2970.chunk.css.map": "/namtruong/static/css/main.997d2970.chunk.css.map",
     "static/js/2.176fcce2.chunk.js.LICENSE.txt": "/namtruong/static/js/2.176fcce2.chunk.js.LICENSE.txt",
     "static/media/NamTruongResume.606e3529.pdf": "/namtruong/static/media/NamTruongResume.606e3529.pdf",
     "static/media/ProfilePic.6f0b1c91.jpg": "/namtruong/static/media/ProfilePic.6f0b1c91.jpg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.c2c23808.js",
     "static/js/2.176fcce2.chunk.js",
-    "static/css/main.ede318b8.chunk.css",
+    "static/css/main.997d2970.chunk.css",
     "static/js/main.8661299a.chunk.js"
   ]
 }
