@@ -2,12 +2,11 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
 }
 
 .home,
-.projects
-{
+.projects {
   display: flex;
   height: 90vh;
   align-items: center;
@@ -15,11 +14,10 @@
   font-size: 3rem;
 }
 
-
 .projects {
-  font-family: 'Courier New', 'serif';
-  background-color: rgb(230, 240, 240);
-  min-height:100vh;
+  font-family: "Courier New", "serif";
+  background-color: #e6f0f0;
+  min-height: 100vh;
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
@@ -28,23 +26,23 @@
 }
 
 .hoverable {
-  transition: .3s;
+  transition: 0.3s;
 }
 
 .hoverable:hover {
-  transition: .3s;
+  transition: 0.3s;
   opacity: 0.8;
-  box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .2)!important
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2) !important;
 }
 
 .overall {
-  background-color: rgb(230, 240, 240);
-  min-height:100vh;
+  background-color: #e6f0f0;
+  min-height: 100vh;
   /*background: #d8dfcd;*/
   color: black;
   background-size: cover;
 }
-.resume1{
+.resume1 {
   border-radius: 4%;
   display: block;
   margin-left: auto;
@@ -52,14 +50,13 @@
   padding: 20px;
   width: 50%;
   height: 50%;
-  
 }
 
 @media screen and (max-width: 768px) {
-  .resume1{
+  .resume1 {
     margin: auto;
-    width:100%;
-    height:100%;
+    width: 100%;
+    height: 100%;
     padding: 10px;
     padding-top: 30px;
     padding-bottom: 30px;
@@ -67,10 +64,10 @@
 }
 
 @media screen and (max-width: 481px) {
-  .resume1{
+  .resume1 {
     margin: auto;
-    width:100%;
-    height:100%;
+    width: 100%;
+    height: 100%;
     padding: 10px;
     padding-top: 45px;
     padding-bottom: 45px;
