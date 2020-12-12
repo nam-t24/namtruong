@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/namtruong/static/css/main.fd646164.chunk.css",
-    "main.js": "/namtruong/static/js/main.db09febb.chunk.js",
-    "main.js.map": "/namtruong/static/js/main.db09febb.chunk.js.map",
+    "main.css": "/namtruong/static/css/main.8d7f6144.chunk.css",
+    "main.js": "/namtruong/static/js/main.4744bd6d.chunk.js",
+    "main.js.map": "/namtruong/static/js/main.4744bd6d.chunk.js.map",
     "runtime-main.js": "/namtruong/static/js/runtime-main.c2c23808.js",
     "runtime-main.js.map": "/namtruong/static/js/runtime-main.c2c23808.js.map",
     "static/js/2.176fcce2.chunk.js": "/namtruong/static/js/2.176fcce2.chunk.js",
     "static/js/2.176fcce2.chunk.js.map": "/namtruong/static/js/2.176fcce2.chunk.js.map",
     "index.html": "/namtruong/index.html",
-    "static/css/main.fd646164.chunk.css.map": "/namtruong/static/css/main.fd646164.chunk.css.map",
+    "static/css/main.8d7f6144.chunk.css.map": "/namtruong/static/css/main.8d7f6144.chunk.css.map",
     "static/js/2.176fcce2.chunk.js.LICENSE.txt": "/namtruong/static/js/2.176fcce2.chunk.js.LICENSE.txt",
     "static/media/NamTruongResume.8cffbbad.pdf": "/namtruong/static/media/NamTruongResume.8cffbbad.pdf",
     "static/media/ProfilePic.6f0b1c91.jpg": "/namtruong/static/media/ProfilePic.6f0b1c91.jpg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.c2c23808.js",
     "static/js/2.176fcce2.chunk.js",
-    "static/css/main.fd646164.chunk.css",
-    "static/js/main.db09febb.chunk.js"
+    "static/css/main.8d7f6144.chunk.css",
+    "static/js/main.4744bd6d.chunk.js"
   ]
 }
