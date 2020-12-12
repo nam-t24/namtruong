@@ -17,7 +17,9 @@
 
 
 .projects {
-  
+  font-family: 'Courier New', 'serif';
+  background-color: rgb(230, 240, 240);
+  min-height:100vh;
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
@@ -36,12 +38,10 @@
 }
 
 .overall {
-  background: rgb(230, 240, 240);
+  background-color: rgb(230, 240, 240);
+  min-height:100vh;
   /*background: #d8dfcd;*/
   color: black;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
 }
 .resume1{
