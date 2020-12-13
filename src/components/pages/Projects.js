@@ -1,6 +1,8 @@
 import React from "react";
 import "../../App.css";
+import "./Projects.css";
+import Cards from "../Cards";
 
 export default function Project() {
-  return <p className="projects">Coming soon!</p>;
+  return <Cards />;
 }

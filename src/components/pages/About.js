@@ -15,16 +15,30 @@ export default function About() {
         well as using git for version control.
         <br />
         <br />
-        Currently, I am involved in the Association for Computing Machinery at
-        UTD, having participated in its projects division, and now part of the
-        HackUTD division. After participating in my first hackathon, I became a
+        Currently, I am involved in the{" "}
+        <a href="https://www.acmutd.co/index.html" target="-blank">
+          Association for Computing Machinery
+        </a>
+        , having participated in its{" "}
+        <a href="https://www.acmutd.co/projects" target="-blank">
+          projects
+        </a>{" "}
+        division, and now part of the{" "}
+        <a href="https://www.hackutd.co/" target="-blank">
+          HackUTD
+        </a>{" "}
+        division. After participating in my first hackathon, I became a
         technical officer for HackUTD to help organize and enrich the experience
         of the many new students who decide to partake in HackUTD in the future.
         Additionally, I am involved in the UTD powerlifting team.
         <br />
         <br />
         When I'm not coding or learning, I enjoy weight training, playing games,
-        testing my typing ability, and eating mint chocolate chip ice cream :)
+        testing my typing speed on{" "}
+        <a href="https://typings.gg/" target="-blank">
+          typings.gg
+        </a>
+        , and eating mint chocolate chip ice cream :)
       </p3>
     </div>
   );
