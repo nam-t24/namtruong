@@ -13,7 +13,7 @@ function Cards() {
           <ul className="cards__items">
             <CardItem
               src={img}
-              text="Digital sous chef web application for ACM Projects Fall 2020. First place project"
+              text="Digital sous chef web application for ACM Projects Fall 2020. First place projec winnert"
               label="Cook Along"
               path="https://github.com/acm-projects/CookAlong"
             />

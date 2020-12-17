@@ -66,7 +66,7 @@ function HeroSection() {
           href="#"
           class="typewrite typeBlink"
           data-period="2500"
-          data-type='["Student at the University of Texas at Dallas", "B.S. in Computer Science", "Ardent Explorer and Hiker","Rubiks Cube Dabbler" ,"Amateur Chess Player", "Açaí Enthusiast", "Thanks for reading!"]'
+          data-type='["Student at the University of Texas at Dallas", "B.S. in Computer Science", "Ardent Explorer and Hiker","Rubiks Cube Dabbler" ,"Casual Chess Player", "Açaí Enthusiast", "Thanks for reading!"]'
         ></span>
       </p>
       <img src={logo} alt="Avatar" class="avatar" />
