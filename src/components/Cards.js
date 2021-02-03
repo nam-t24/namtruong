@@ -3,6 +3,7 @@ import "./Cards.css";
 import CardItem from "./CardItem";
 import img from "../images/CookAlong.png";
 import img2 from "../images/tobor.jpg";
+import img3 from "../images/Minos.png";
 
 function Cards() {
   return (
@@ -19,9 +20,15 @@ function Cards() {
             />
             <CardItem
               src={img2}
-              text="Puzzle and adventure game created through Unity for the 2020 HackUTD GameJam"
+              text="3D Puzzle and adventure game created through Unity for HackUTD GameJam 2020"
               label="Tobor's Treasure Troph"
               path="https://github.com/KendalUTD/GamerJamProject"
+            />
+            <CardItem
+              src={img3}
+              text="Real-time multiplayer tile based labrynth game using Processing for TAMUHack 2021"
+              label="Minos' Quest"
+              path="https://github.com/Kevin16777216/TAMUHacks2021"
             />
           </ul>
         </div>
