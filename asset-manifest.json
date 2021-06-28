@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/namtruong/static/css/main.1270714d.chunk.css",
-    "main.js": "/namtruong/static/js/main.2399a299.chunk.js",
-    "main.js.map": "/namtruong/static/js/main.2399a299.chunk.js.map",
+    "main.js": "/namtruong/static/js/main.7dcf56bb.chunk.js",
+    "main.js.map": "/namtruong/static/js/main.7dcf56bb.chunk.js.map",
     "runtime-main.js": "/namtruong/static/js/runtime-main.c2c23808.js",
     "runtime-main.js.map": "/namtruong/static/js/runtime-main.c2c23808.js.map",
     "static/js/2.9a2f0d9d.chunk.js": "/namtruong/static/js/2.9a2f0d9d.chunk.js",
@@ -12,16 +12,16 @@
     "static/js/2.9a2f0d9d.chunk.js.LICENSE.txt": "/namtruong/static/js/2.9a2f0d9d.chunk.js.LICENSE.txt",
     "static/media/CookAlong.68fa7a65.png": "/namtruong/static/media/CookAlong.68fa7a65.png",
     "static/media/Minos.f02888c0.png": "/namtruong/static/media/Minos.f02888c0.png",
-    "static/media/NamTruongResume.5804abea.pdf": "/namtruong/static/media/NamTruongResume.5804abea.pdf",
+    "static/media/NamTruongResume.c8cdb9cc.pdf": "/namtruong/static/media/NamTruongResume.c8cdb9cc.pdf",
     "static/media/ProfilePic.6f0b1c91.jpg": "/namtruong/static/media/ProfilePic.6f0b1c91.jpg",
     "static/media/HeroSection.css": "/namtruong/static/media/galaxy.29c9f9e6.jpg",
-    "static/media/resume.3dc1bc7c.jpg": "/namtruong/static/media/resume.3dc1bc7c.jpg",
+    "static/media/resume.3fc6977a.jpg": "/namtruong/static/media/resume.3fc6977a.jpg",
     "static/media/tobor.ec943433.jpg": "/namtruong/static/media/tobor.ec943433.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c2c23808.js",
     "static/js/2.9a2f0d9d.chunk.js",
     "static/css/main.1270714d.chunk.css",
-    "static/js/main.2399a299.chunk.js"
+    "static/js/main.7dcf56bb.chunk.js"
   ]
 }
