@@ -1,6 +1,4 @@
-# Portfolio Site
+# Portfolio Site v1
 
-Personalized portfolio site for Nam Truong using React
-(Still in progress)
-<br /><br />
-Deployed site: https://nam-t24.github.io/namtruong/
+Retired portfolio site :(
+
